@@ -1,1 +1,3 @@
 docker image build -t python-hello-world .
+
+docker image ls
